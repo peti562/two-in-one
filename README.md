@@ -6,6 +6,7 @@ Thank you for taking the time and checking my solution
 - I do not currently have the private infrastructure to run the api on the cloud as I normally would so I just made a locally runnable application
 - I received two tasks from you, a fibonacci logical task for big numbers and a CRUD api. 
 - I've done both inside this one to prevent unnecessary overcomplicating and to save your time and effort checking them
+- I created a basic free MySQL instance for the comments, in real life I would not leave the env file here with credentials in it, I just wanted to keep it as easy and simple as possible
 
 ## Setup
 
