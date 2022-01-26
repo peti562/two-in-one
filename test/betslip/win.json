@@ -1,0 +1,16 @@
+{
+	"totalStake": 200,
+    "bets": [{
+        "stake": 100,
+        "betTypeId" : 1,
+        "poolId" : 4293,
+        "selection" : {
+            "legs" : [
+                {
+                    "runnerIds" : [69737],
+                    "legId" : 9484
+                }
+            ]
+        }
+    }]
+}
